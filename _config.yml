@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://example.com" # the base hostname & protocol for your site
+url: "http://nckswt.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -8,7 +8,7 @@ theme_settings:
   title: Type Theme
   avatar: avatar.png
   gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "Robotics and Autonomy Blog" # used by search engines
 
   # Header and footer text
   header_text: >
@@ -21,7 +21,7 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: nckswt@gmail.com # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
