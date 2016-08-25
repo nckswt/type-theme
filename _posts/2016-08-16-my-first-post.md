@@ -3,6 +3,9 @@ layout: post
 title: Setting up an Embedded Linux Development Environment
 ---
 
+* TOC
+{:toc}
+
 # Introduction
 
 I'm about to start working on a new project, and thought it was time to really give my development environment a once-over. I'll be writing C++ and Python code to be executed onboard a small robotic platform, so I'm focusing on setting up a development environment for Linux from scratch.
@@ -26,7 +29,9 @@ Whatever tools and setup I'm using, if I don't feel comfortable with them, I hav
 I need a development environment that matches my notions of aesthetic and user-friendliness. You should examine your own personal philosophies: do you not care about how your interface looks, just so long as it works? Do you want the most bare-bones environment possible? Do you want to use whatever's familiar? These are all valid concerns, but nothing that the internet will answer for you.
 
 ## 2. "The right tool for the right job" is bullshit
-The notion that you need to use the right tool for the right job is a load of crap. Ideally, it's perfect -- of course you want to follow that rule; however, given the amount of tools available for any job, can you really justify that you're using the right tool? Are you going to do an exhaustive search over all possible text editors before writing a single line of code? The rule that makes more sense to me is the following: "Try something. If it doesn't work, try something better." The focus on tool-driven development can hinder development itself. It's often better to start nailing with a rusty hammer than to spend all your energy searching for a nicer hammer.
+The notion that you need to use the right tool for the right job is a load of crap. Ideally, it's perfect -- of course you want to follow that rule; however, given the amount of tools available for any job, can you really justify that you're using the right tool? Are you going to do an exhaustive search over all possible text editors before writing a single line of code?
+
+The rule that makes more sense to me is the following: "Try something. If it doesn't work, try something better." The focus on tool-driven development can hinder development itself. If you want to hang a painting, it's better to pound a nail into the wall with a heavy shoe than to spend all your energy searching for a nicer hammer, then falling asleep on the couch beside the unhung painting. Look for [affordances](https://en.wikipedia.org/wiki/Affordance), not tools.
 
 ## 3. Don't trust yourself
 The above points have a major flaw: if you get too comfortable with one set-up, you're not inclined to search for better alternatives. You need to experiment with other tools you might not like, and then see how much you *actually* like them. It's human nature to be resistant to change -- you need to recognize that in yourself and treat yourself like a test subject.
