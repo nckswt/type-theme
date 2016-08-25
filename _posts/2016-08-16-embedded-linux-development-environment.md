@@ -46,8 +46,9 @@ My own preference is to start at higher levels of abstraction and work my way do
 However, I've noticed people taking an alternate approach because of pride (i.e. writing C code for text processing, "Because it's faster".) There's a sense of pride in writing low-level code, but if pride's the main output of the code, then it's not code -- it's a self-awarded pat on the back. Writing optimized code takes away from other code you could be writing.
 
 ## Humans suck individually -- use the community
-So you've been coding for a decade and you're better than most people you know. With [18M software developers as of 2014](https://www.infoq.com/news/2014/01/IDC-software-developers), you're almost certainly not the best in any one domain.
+So you've been coding for a decade and you're better than most people you know. With [18M software developers as of 2014](https://www.infoq.com/news/2014/01/IDC-software-developers), you're almost certainly not the best in any one domain. More to the point, some people *are* the best in their domain -- or, at the very least, they're pretty damn good. From the subset of all developers, we get the good developers, and we'd like to find the intersection between these people and the developers who actually communicate their work.
 
+[Developer Venn Diagram](https://github.com/nckswt/nckswt.github.io/img/2016-08-16-embedded-linux-development-environment/developer_venn.png "Definitely not to scale")
 
 # Text Editors
 
