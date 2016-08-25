@@ -48,7 +48,8 @@ However, I've noticed people taking an alternate approach because of pride (i.e.
 ## Humans suck individually -- use the community
 So you've been coding for a decade and you're better than most people you know. With [18M software developers as of 2014](https://www.infoq.com/news/2014/01/IDC-software-developers), you're almost certainly not the best in any one domain. More to the point, some people *are* the best in their domain -- or, at the very least, they're pretty damn good. From the subset of all developers, we get the good developers, and we'd like to find the intersection between these people and the developers who actually communicate their work.
 
-[Developer Venn Diagram](https://raw.githubusercontent.com/nckswt/nckswt.github.io/master/img/2016-08-16-embedded-linux-development-environment/developer_venn.png "Definitely not to scale")
+![Developer Venn Diagram](../img/2016-08-16-embedded-linux-development-environment/developer_venn.png =100x100)
+*Definitely not to scale*
 
 # Text Editors
 
