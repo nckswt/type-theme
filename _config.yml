@@ -5,7 +5,7 @@ url: "http://nckswt.github.io" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Brobot
+  title: Robotics from Scratch
   avatar: avatar.png
   gravatar: # Email MD5 hash
   description: "Robotics and Autonomy Blog" # used by search engines
