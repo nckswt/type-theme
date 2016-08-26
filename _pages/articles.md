@@ -2,7 +2,7 @@
 layout: page
 title: Articles
 permalink: /resouces/articles/
-feature-img: "img/backgrounds/Data Terrain.jpg"
+feature-img: "/img/backgrounds/Data Terrain.jpg"
 hide: true
 ---
 

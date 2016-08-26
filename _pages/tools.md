@@ -2,8 +2,22 @@
 layout: page
 title: Tools
 permalink: /resouces/tools/
-feature-img: "img/backgrounds/Data Terrain.jpg"
+feature-img: "/img/backgrounds/Data Terrain.jpg"
 hide: true
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+A personal collection of useful development tools using the following rating system:
+
+
+
+# OS X Specific
+
+# Linux Specific
+
+# Command-line
+* [YADR](https://github.com/skwp/dotfiles) is what I use to get my terminal environment setup. This includes zsh (pre-customized) to replace bash, vim (pre-customized) for solid terminal editing.
+
+# Text editors (and plugins)
+* [Sublime Text](https://www.sublimetext.com/3)
+* [Atom](https://atom.io/)
+  * [Remote-atom](https://atom.io/packages/remote-atom)
