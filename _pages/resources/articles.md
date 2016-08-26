@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Articles
-permalink: /resouces/articles
+permalink: /resouces/articles/
 feature-img: "img/backgrounds/Data Terrain.jpg"
 ---
 
