@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tools
-permalink: /resouces/tools
+permalink: /resouces/tools/
 feature-img: "img/backgrounds/Data Terrain.jpg"
 ---
 
